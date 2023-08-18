@@ -1,0 +1,15 @@
+pygame 2.1.2 (SDL 2.0.18, Python 3.9.5)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+[False, True, False, True, False, True, False, True, False, True, False, True, False, False, True, False, True, True, False]
+[False, False, True, False, True, False, True, False, True, True, False, True, False, False, True, False, True, False, True]
+[False, True, False, True, False, True, False, True, False, False, True, True, False, True, False, True, False, True, False]
+[False, False, True, False, True, False, True, False, True, True, False, False, True, False, True, False, True, False, True]
+[False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False]
+[False, True, False, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True]
+[False, False, True, True, False, True, False, False, True, True, False, True, False, True, False, True, False, True, False]
+[False, True, False, False, True, False, True, True, False, False, True, False, True, True, False, False, True, False, True]
+[False, False, True, True, False, True, False, False, True, True, False, True, False, False, True, True, False, True, False]
+[False, True, False, True, False, False, True, True, False, False, True, False, True, True, False, False, True, False, True]
+[False, False, True, False, True, True, False, False, True, True, False, True, False, False, True, True, False, True, False]
+[False, True, False, True, False, False, True, True, False, False, True, False, True, False, True, False, True, True, False]
+[False, False, True, False, True, True, False, False, True, True, False, True, False, False, True, True, False, False, True]
